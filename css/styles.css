@@ -32,6 +32,7 @@ p{
 /* MAIN STYLES */
 main{
     min-width: 325px;
+    max-width: 340px;
     min-height: 500px;
     margin: 1rem;
     background-color: var(--Very_dark_blue_cardBG);
